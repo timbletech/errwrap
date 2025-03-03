@@ -19,10 +19,10 @@ error is wrapped, and extracting that error.
 
 ## Installation and Docs
 
-Install using `go get github.com/hashicorp/errwrap`.
+Install using `go get github.com/timbletech/errwrap`.
 
 Full documentation is available at
-http://godoc.org/github.com/hashicorp/errwrap
+http://godoc.org/github.com/timbletech/errwrap
 
 ## Usage
 

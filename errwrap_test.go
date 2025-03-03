@@ -1,4 +1,4 @@
-// Copyright (c) HashiCorp, Inc.
+// Copyright (c) Timble Technology, Inc.
 // SPDX-License-Identifier: MPL-2.0
 
 package errwrap

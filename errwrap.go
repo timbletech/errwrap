@@ -1,4 +1,4 @@
-// Copyright (c) HashiCorp, Inc.
+// Copyright (c) Timble Technology, Inc.
 // SPDX-License-Identifier: MPL-2.0
 
 // Package errwrap implements methods to formalize error wrapping in Go.
