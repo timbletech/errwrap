@@ -1,1 +1,3 @@
-module github.com/github.com/timbletech/errwrap
+module github.com/timbletech/errwrap
+
+go 1.24.0
